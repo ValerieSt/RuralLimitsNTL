@@ -1,0 +1,19 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Namibe,Moçâmedes,15°11′43″S ,12°9′3″E,https://en.wikipedia.org/wiki/Mo%C3%A7%C3%A2medes,,"(-15.195277777777777, 12.150833333333333)",0
+Huíla,Lubango,14°55′S,13°30′E,https://en.wikipedia.org/wiki/Lubango,,"(-14.916666666666666, 13.5)",0
+Cunene,Ondjiva,17°04′S,15°44′E,https://en.wikipedia.org/wiki/Ondjiva,,"(-17.066666666666666, 15.733333333333333)",0
+Cuando Cubango,Menongue,14°39′20″S,17°41′03″E,https://en.wikipedia.org/wiki/Menongue,,"(-14.655555555555557, 17.684166666666666)",0
+Benguela,Benguela,12°33′S,13°25′E,https://en.wikipedia.org/wiki/Benguela,,"(-12.55, 13.416666666666666)",0
+Cuanza Sul,Sumbe,11°12′19″S,13°50′30″E,https://en.wikipedia.org/wiki/Sumbe,,"(-11.205277777777777, 13.841666666666667)",0
+Huambo,Huambo,12°46′36″S,15°44′05″E,https://en.wikipedia.org/wiki/Huambo,,"(-12.776666666666667, 15.73472222222222)",0
+Bié,Cuíto,12°23′S,16°56′E,https://en.wikipedia.org/wiki/Cu%C3%ADto,,"(-12.383333333333333, 16.933333333333334)",0
+Moxico,Luena,11.7918°S,19.9062°E,"https://en.wikipedia.org/wiki/Luena,_Angola",,"(-11.7918, 19.9062)",0
+Luanda,Luanda,8°50′18″S,13°14′4″E,https://en.wikipedia.org/wiki/Luanda,,"(-8.838333333333335, 13.234444444444444)",1
+Cuanza Norte,N'dalatando,9°18′S,14°55′E,https://en.wikipedia.org/wiki/N%27dalatando,,"(-9.3, 14.916666666666666)",0
+Bengo,Caxito,8°34′48″S,13°39′51″E,https://en.wikipedia.org/wiki/Caxito,,"(-8.58, 13.664166666666667)",0
+Malanje,Malanje,9°32′S,16°21′E,https://en.wikipedia.org/wiki/Malanje,,"(-9.533333333333333, 16.35)",0
+Lunda Norte,Dundo,7°22′48.4″S,20°50′06.2″E,https://en.wikipedia.org/wiki/Dundo,,"(-7.380111111111111, 20.835055555555556)",0
+Uíge,Uíge,7°37′S,15°03′E,https://en.wikipedia.org/wiki/U%C3%ADge,,"(-7.616666666666667, 15.05)",0
+Zaire,M'banza-Kongo,6°16′04″S,14°14′53″E,https://en.wikipedia.org/wiki/M%27banza-Kongo,,"(-6.267777777777778, 14.248055555555554)",0
+Cabinda,Cabinda,5°33′36″S,12°11′24″E,https://en.wikipedia.org/wiki/Cabinda_(city),,"(-5.56, 12.19)",0
+Lunda Sul,Saurimo,9°39′S,20°24′E,https://en.wikipedia.org/wiki/Saurimo,,"(-9.65, 20.4)",0

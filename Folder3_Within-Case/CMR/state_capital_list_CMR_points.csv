@@ -1,0 +1,11 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+South,Ebolowa,2°55′N,11°9′E,https://en.wikipedia.org/wiki/Regions_of_Cameroon,Word document includes one „NA“ and a „crosses boundary“,"(2.9166666666666665, 11.15)",0
+East,Bertoua,4°35′N,13°41′E,,,"(4.583333333333333, 13.683333333333334)",0
+South-West,Buea,4°10′0″N,9°14′0″E,,,"(4.166666666666667, 9.233333333333333)",0
+Littoral,Douala,04°03′N,009°41′E,,,"(4.05, 9.683333333333334)",0
+Centre,Yaoundé,3°52′N,11°31′E,,,"(3.8666666666666667, 11.516666666666667)",1
+West,Bafoussam,5°28′N,10°25′E,,,"(5.466666666666667, 10.416666666666666)",0
+North West,Bamenda,05°57′41″N,10°09′06″E,,,"(5.961388888888889, 10.151666666666667)",0
+Adamawa,Ngaoundéré,7°19′00″N,13°35′00″E,,,"(7.316666666666666, 13.583333333333334)",0
+North,Garoua,9°18′N,13°24′E,,,"(9.3, 13.4)",0
+Far-North,Maroua,10°35′50″N,14°18′57″E,,,"(10.597222222222223, 14.315833333333334)",0

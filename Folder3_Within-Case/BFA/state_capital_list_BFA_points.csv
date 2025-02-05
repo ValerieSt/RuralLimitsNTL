@@ -1,0 +1,14 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Cascades,Banfora,10°37′51″N,4°45′32″W,https://en.wikipedia.org/wiki/Banfora,,"(10.630833333333333, -4.7588888888888885)",0
+Hauts-Bassins,Bobo-Dioulasso,11°11′N,4°17′W,https://en.wikipedia.org/wiki/Bobo-Dioulasso,,"(11.183333333333334, -4.283333333333333)",0
+Sud-Ouest,Gaoua,10°19′N,3°10′W,https://en.wikipedia.org/wiki/Gaoua,,"(10.316666666666666, -3.1666666666666665)",0
+Boucle du Mouhoun,Dédougou,12°28′N,3°28′W,https://en.wikipedia.org/wiki/D%C3%A9dougou,,"(12.466666666666667, -3.466666666666667)",0
+Centre-Ouest,Koudougou,12°15′N,2°22′W,https://en.wikipedia.org/wiki/Koudougou,,"(12.25, -2.3666666666666667)",0
+Centre-Sud,Manga,11°40′N,1°04′W,"https://en.wikipedia.org/wiki/Manga,_Burkina_Faso",,"(11.666666666666666, -1.0666666666666667)",0
+Centre,Ouagadougou,12°22′07″N,01°31′39″W,https://en.wikipedia.org/wiki/Ouagadougou,,"(12.368611111111111, -1.5274999999999999)",1
+Centre-Est,Tenkodogo,11°47′N,0°22′W,https://en.wikipedia.org/wiki/Tenkodogo,,"(11.783333333333333, -0.36666666666666664)",0
+Plateau-Central,Ziniaré,12°35′00″N,01°18′00″W,https://en.wikipedia.org/wiki/Ziniar%C3%A9,,"(12.583333333333334, -1.3)",0
+Est,Fada N’gourma,12°03′N,0°22′E,https://en.wikipedia.org/wiki/Fada_N%27gourma,,"(12.05, 0.36666666666666664)",0
+Nord,Ouahigouya,13°35′N,2°25′W,https://en.wikipedia.org/wiki/Ouahigouya,,"(13.583333333333334, -2.4166666666666665)",0
+Centre-Nord,Kaya,13°05′00″N,01°05′00″W,"https://en.wikipedia.org/wiki/Kaya,_Burkina_Faso",,"(13.083333333333334, -1.0833333333333333)",0
+Sahel,Dori,14.03°N ,0.03°W,"https://en.wikipedia.org/wiki/Dori,_Burkina_Faso",,"(14.03, -0.03)",0

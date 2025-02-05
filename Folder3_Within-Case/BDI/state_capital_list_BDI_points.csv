@@ -1,0 +1,19 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Makamba,Makamba,4°08′S,29°48′E,"https://en.wikipedia.org/wiki/Makamba,_Burundi",,"(-4.133333333333334, 29.8)",0
+Rumonge,Rumonge,3°58′S,29°26′E,https://en.wikipedia.org/wiki/Rumonge,,"(-3.966666666666667, 29.433333333333334)",0
+Rutana,Rutana,3°55′S,30°00′E,https://en.wikipedia.org/wiki/Rutana,,"(-3.9166666666666665, 30.0)",0
+Gitega,Gitega,03°25′42″S,29°55′30″E,https://en.wikipedia.org/wiki/Gitega,,"(-3.4283333333333332, 29.925)",1
+Ruyigi,Ruyigi,3°29′S,30°15′E,https://en.wikipedia.org/wiki/Ruyigi,,"(-3.4833333333333334, 30.25)",0
+Bujumbura Rural,Isale,3°20′45″S,29°29′03″E,https://en.wikipedia.org/wiki/Isale_(commune),,"(-3.3458333333333337, 29.484166666666667)",0
+Bubanza,Bubanza,3°05′S,29°24′E,https://en.wikipedia.org/wiki/Bubanza,,"(-3.0833333333333335, 29.4)",0
+Muramvya,Muramvya,3°15′S,29°36′E,https://en.wikipedia.org/wiki/Muramvya,,"(-3.25, 29.6)",0
+Mwaro,Mwaro,3°32′S,29°42′E,https://en.wikipedia.org/wiki/Mwaro,,"(-3.533333333333333, 29.7)",0
+Cankuzo,Cankuzo,3°13′10″S,30°33′10″E,https://en.wikipedia.org/wiki/Cankuzo,,"(-3.2194444444444446, 30.552777777777777)",0
+Cibitoke,Cibitoke,2°53′19″S,29°07′12″E,https://en.wikipedia.org/wiki/Cibitoke,,"(-2.888611111111111, 29.12)",0
+Kayanza,Kayanza,2°55′S,29°37′E,https://en.wikipedia.org/wiki/Kayanza,,"(-2.9166666666666665, 29.616666666666667)",0
+Ngozi,Ngozi,02°54′30″S,29°49′37″E,"https://en.wikipedia.org/wiki/Ngozi,_Burundi",,"(-2.908333333333333, 29.826944444444443)",0
+Kirundo,Kirundo,2°35′24″S,30°05′24″E,https://en.wikipedia.org/wiki/Kirundo,,"(-2.5900000000000003, 30.09)",0
+Muyinga,Muyinga,2°51′S,30°20′E,https://en.wikipedia.org/wiki/Muyinga,,"(-2.85, 30.333333333333332)",0
+Karuzi,Karuzi,3°06′S,30°10′E,https://en.wikipedia.org/wiki/Karuzi,,"(-3.1, 30.166666666666668)",0
+Bururi,Bururi,3°57′S,29°37′E,https://en.wikipedia.org/wiki/Bururi,,"(-3.95, 29.616666666666667)",0
+Bujumbura Mairie,Bujumbura,3°23′S,29°22′E,https://en.wikipedia.org/wiki/Bujumbura,,"(-3.3833333333333333, 29.366666666666667)",0

@@ -1,0 +1,5 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Central,Kampala,00°18′49″N,32°34′52″E,https://en.wikipedia.org/wiki/Regions_of_Uganda,,"(0.3136111111111111, 32.58111111111111)",1
+Western,Mbara,00°36′48″S,30°39′30″E,,,"(-0.6133333333333333, 30.65833333333333)",0
+Eastern,Mbale,01°04′50″N,34°10′30″E,,,"(1.0805555555555555, 34.175)",0
+Northern,Gulu,02°46′54″N,32°17′57″E,,,"(2.7816666666666667, 32.299166666666665)",0

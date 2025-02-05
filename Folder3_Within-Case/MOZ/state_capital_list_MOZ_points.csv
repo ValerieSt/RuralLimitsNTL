@@ -1,0 +1,12 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Maputo,Matola,25°57′44″S,32°27′32″E,https://en.wikipedia.org/wiki/Provinces_of_Mozambique,,"(-25.96222222222222, 32.45888888888889)",0
+Maputo City,Maputo City,25°58′S,32°35′E,,,"(-25.966666666666665, 32.583333333333336)",1
+Gaza,Xai-Xai,25°03′00″S,33°39′00″E,,,"(-25.05, 33.65)",0
+Inhambane,Inhambane,23°51′54″S,35°23′00″E,,,"(-23.865000000000002, 35.38333333333333)",0
+Manica,Chimoio,19°06′59″S,33°29′00″E,,,"(-19.116388888888892, 33.483333333333334)",0
+Sofala,Beira,19°50′S,34°51′E,,,"(-19.833333333333332, 34.85)",0
+Zambezia,Quelimane,17°52′35″S,36°53′14″E,,,"(-17.87638888888889, 36.88722222222222)",0
+Tete,Tete,16°10′S,33°36′E,,,"(-16.166666666666668, 33.6)",0
+Niassa,Lichinga,13°18′46″S,35°14′26″E,,,"(-13.312777777777779, 35.24055555555556)",0
+Nampula,Nampula,15°07′S,39°16′E,,,"(-15.116666666666667, 39.266666666666666)",0
+Cabo DeIgado,Pemba,12°58′S,40°33′E,,,"(-12.966666666666667, 40.55)",0

@@ -1,0 +1,12 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Sikasso,Sikasso,11°19′N,5°40′W,https://en.wikipedia.org/wiki/Sikasso,,"(11.316666666666666, -5.666666666666667)",0
+Koulikoro,Koulikoro,12°51′40″N,7°33′30″W,https://en.wikipedia.org/wiki/Koulikoro,,"(12.86111111111111, -7.558333333333334)",0
+Kayes,Kayes,14°27′N,11°26′W,https://en.wikipedia.org/wiki/Kayes,,"(14.45, -11.433333333333334)",0
+Bamako,Bamako,12°38′21″N,8°0′10″W,https://en.wikipedia.org/wiki/Bamako,,"(12.639166666666666, -8.002777777777778)",1
+Ségou,Ségou,13°27′N,6°16′W,https://en.wikipedia.org/wiki/S%C3%A9gou,,"(13.45, -6.266666666666667)",0
+Mopti,Mopti,14°29′45″N,4°11′55″W,https://en.wikipedia.org/wiki/Mopti,,"(14.495833333333332, -4.198611111111111)",0
+Tombouctou,Timbuktu,16°46′33″N,3°00′34″W,https://en.wikipedia.org/wiki/Timbuktu,,"(16.77583333333333, -3.0094444444444446)",0
+Gao,Gao,16°16′N,0°03′W,https://en.wikipedia.org/wiki/Gao,,"(16.266666666666666, -0.05)",0
+Kidal,Kidal,18°26′20″N,1°24′30″E,https://en.wikipedia.org/wiki/Kidal,,"(18.43888888888889, 1.4083333333333332)",0
+Taoudénit,Taoudenni,22°40′N,3°59′W,https://en.wikipedia.org/wiki/Taoudenni,Only exists since 2012 (not on your list),"(22.666666666666668, -3.9833333333333334)",0
+Ménaka,Ménaka,15°55′00″N,2°24′00″E,https://en.wikipedia.org/wiki/M%C3%A9naka,Only exists since 2012 (not on your list),"(15.916666666666666, 2.4)",0

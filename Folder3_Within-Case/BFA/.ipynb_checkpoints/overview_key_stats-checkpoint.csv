@@ -1,0 +1,21 @@
+type,what,value
+Error,Settlements with over 100% NTL,0
+All settlements,Total number,613669
+All settlements,Proportion NTL,0.47%
+All settlements,Proportion monitorable,0.35%
+All settlements,Median size NTL settlement,100.0
+Built-up,Total number,374
+Built-up,Proportion NTL,48.93%
+Built-up,Median NTL value for any NTL,35.29131669318603
+Built-up,Proportion monitorable,17.38%
+Small settlements,Total number,30050
+Small settlements,Proportion NTL,1.24%
+Small settlements,Median NTL value for any NTL,35.66497972169933
+Small settlements,Proportion monitorable,0.51%
+Hamlets,Total number,584796
+Hamlets,Proportion NTL,0.40%
+Hamlets,Median NTL value for any NTL,100.0
+Hamlets,Proportion monitorable,0.33%
+Population,Proportion living in settlements with any NTL,32.04%
+Population,Proportion living in monitorable settlements,26.61%
+Threshold NTL,Threshold 0.8 likelihood of any NTL in a settlement,7059.860762183373

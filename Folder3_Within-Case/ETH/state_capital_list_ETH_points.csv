@@ -1,0 +1,16 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Oromia,Addis Ababa,9°1′48″N,38°44′24″E,https://en.wikipedia.org/wiki/Regions_of_Ethiopia,,"(9.030000000000001, 38.74)",0
+Somali,Jijiga,9°21′N,42°48′E,,,"(9.35, 42.8)",0
+Central Ethiopia Regional State (formerly SNNPR),Hosaena,7°33′N,37°51′E,"https://en.wikipedia.org/wiki/Southern_Nations,_Nationalities,_and_Peoples%27_Region","Only exists since 2023. The dissolution of the SNNPR region was finalized when the regional state of Southern Ethiopia was established on August 18, 2023 after the referendum on the Southern Ethiopia region and the rest of the SNNPR region became the regional state of Central Ethiopia. ","(7.55, 37.85)",0
+SNNP,Hawassa,7°3′N,38°28′E,,,"(7.05, 38.46666666666667)",0
+Sidama,Hawassa,7°3′N,38°28′E,,,"(7.05, 38.46666666666667)",0
+Gambela,Gambela,8°15′N,34°35′E,,,"(8.25, 34.583333333333336)",0
+Amhara,Bahir Dar,11°36′N,37°23′E,,,"(11.6, 37.38333333333333)",0
+Afar,Semera,11°47′32″N,41°0′31″E,,,"(11.792222222222222, 41.00861111111111)",0
+Benishangul Gumz,Asosa,10°04′N,34°31′E,,,"(10.066666666666666, 34.516666666666666)",0
+Dire Dawa,Dire Dawa,9°36′N,41°52′E,,,"(9.6, 41.86666666666667)",0
+Tigray,Mekelle,13°29′49″N,39°28′37″E,,,"(13.496944444444443, 39.47694444444445)",0
+Addis Ababa,Addis Ababa,9°1′48″N,38°44′24″E,,Same capital as in Oromia,"(9.030000000000001, 38.74)",1
+Harari,Harar,9°18′40″N,42°7′40″E,,,"(9.311111111111112, 42.12777777777778)",0
+South Ethiopia Regional State,Wolaita Sodo,6°51′18″N,37°46′51″E,,Only exists since 2023. ,"(6.8549999999999995, 37.780833333333334)",0
+"South West Ethiopia Peoples' Region 	",Bonga,7°16′N,36°14′E,,Only exists since 2021.,"(7.266666666666667, 36.233333333333334)",0

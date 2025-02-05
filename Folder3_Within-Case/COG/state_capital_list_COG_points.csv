@@ -1,0 +1,13 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Kouilou,Loango,4°39′22″S,11°48′41″E,"https://en.wikipedia.org/wiki/Loango,_Republic_of_Congo",Note that until 2011 the capital was Hinda,"(-4.6561111111111115, 11.811388888888889)",0
+Niari,Dolisie,4°12′2″S,12°40′45″E,https://en.wikipedia.org/wiki/Dolisie,Other name of Dolisie is Loubomo,"(-4.200555555555556, 12.679166666666665)",0
+Pool,Kinkala,4°21′24″S,14°45′32″E,https://en.wikipedia.org/wiki/Kinkala,,"(-4.3566666666666665, 14.758888888888889)",0
+Bouenza,Madingou,04°09′51″S,13°33′06″E,"https://en.wikipedia.org/wiki/Madingou,_Bouenza",,"(-4.1641666666666675, 13.551666666666668)",0
+Lekoumou,Sibiti,3°41′6″S,13°21′4″E,https://en.wikipedia.org/wiki/Sibiti,,"(-3.685, 13.351111111111111)",0
+Brazzaville,Brazzaville,04°16′10″S,15°16′16″E,https://en.wikipedia.org/wiki/Brazzaville,,"(-4.269444444444445, 15.271111111111113)",1
+Plateaux,Djambala,2°32′24″S,14°45′7″E,https://en.wikipedia.org/wiki/Djambala,,"(-2.54, 14.751944444444444)",0
+Cuvette-Ouest,Ewo,0°52′27″S,14°49′0″E,"https://en.wikipedia.org/wiki/Ewo,_Republic_of_the_Congo",,"(-0.8741666666666666, 14.816666666666666)",0
+Cuvette,Owando,0°29′0″S,15°53′51″E,https://en.wikipedia.org/wiki/Owando,,"(-0.48333333333333334, 15.897499999999999)",0
+Sangha,Ouésso,1°36′38″N,16°03′05″E,https://en.wikipedia.org/wiki/Ou%C3%A9sso,,"(1.6105555555555557, 16.05138888888889)",0
+Likoula,Impfondo,1°37′7″N,18°03′44″E,https://en.wikipedia.org/wiki/Impfondo,,"(1.6186111111111112, 18.06222222222222)",0
+Pointe-Noire,Pointe-Noire,04°47′51″S,11°51′1″E,https://en.wikipedia.org/wiki/Pointe-Noire,,"(-4.7975, 11.850277777777777)",0

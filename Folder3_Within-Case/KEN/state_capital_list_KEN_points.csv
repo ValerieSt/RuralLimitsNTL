@@ -1,0 +1,48 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Taita-Taveta,Mwatate,03°30′17″S,38°22′40″E,https://en.wikipedia.org/wiki/Mwatate,Sources provided because there is no reliable overview page,"(-3.504722222222222, 38.37777777777778)",0
+Kajiado,Kajiado,01°51′S,36°47′E,https://en.wikipedia.org/wiki/Kajiado,,"(-1.85, 36.78333333333333)",0
+Narok,Narok,01°05′S,35°52′E,https://en.wikipedia.org/wiki/Narok,,"(-1.0833333333333333, 35.86666666666667)",0
+Migori,Migori,1°4′S,34°28′E,https://de.wikipedia.org/wiki/Migori,,"(-1.0666666666666667, 34.46666666666667)",0
+Homa Bay,Homa Bay,0°31′S,34°27′E,https://en.wikipedia.org/wiki/Homa_Bay,,"(-0.5166666666666667, 34.45)",0
+Siaya,Siaya,0°04′N,34°17′E,https://en.wikipedia.org/wiki/Siaya,,"(0.06666666666666667, 34.28333333333333)",0
+Kisumu,Kisumu ,0°05′S,34°46′E,https://en.wikipedia.org/wiki/Kisumu,,"(-0.08333333333333333, 34.766666666666666)",0
+Nyamira,Nyamira,0.521°S,34.914°E,https://en.wikipedia.org/wiki/Nyamira,,"(-0.521, 34.914)",0
+Bomet,Bomet,0°47′S,35°21′E,https://en.wikipedia.org/wiki/Bomet,,"(-0.7833333333333333, 35.35)",0
+Kericho,Kericho,00°22′09″S,35°17′02″E,https://en.wikipedia.org/wiki/Kericho,,"(-0.36916666666666664, 35.28388888888889)",0
+Nakuru,Nakuru,0°18′S,36°4′E,https://en.wikipedia.org/wiki/Nakuru,,"(-0.3, 36.06666666666667)",0
+Baringo,Kabarnet,0.494°N,35.744°E,https://en.wikipedia.org/wiki/Kabarnet,,"(0.494, 35.744)",0
+Makueni,Wote,1°47′S,37°38′E,"https://en.wikipedia.org/wiki/Wote,_Kenya",,"(-1.7833333333333332, 37.63333333333333)",0
+Machakos,Machakos,1°31′S,37°16′E,https://en.wikipedia.org/wiki/Machakos,,"(-1.5166666666666666, 37.266666666666666)",0
+Nairobi,Nairobi,01°17′11″S,36°49′02″E,https://en.wikipedia.org/wiki/Nairobi,,"(-1.2863888888888888, 36.81722222222223)",1
+Kiambu,Kiambu,1°10′S,36°49′E,https://en.wikipedia.org/wiki/Kiambu,,"(-1.1666666666666667, 36.81666666666667)",0
+Murang’a,Murang’a,00°43′S,37°09′E,https://en.wikipedia.org/wiki/Murang%27a,,"(-0.7166666666666667, 37.15)",0
+Nyandarua,Ol Kalou,0.273°S,36.378°E,https://en.wikipedia.org/wiki/Ol_Kalou,,"(-0.273, 36.378)",0
+Nyeri,Nyeri,0°25′S,36°57′E,https://en.wikipedia.org/wiki/Nyeri,,"(-0.4166666666666667, 36.95)",0
+Laikipia,Rumuruti,0.25996°N,36.53633°E,https://en.wikipedia.org/wiki/Rumuruti,,"(-0.273, 36.378)",0
+Embu,Embu,0°32′20″S,37°27′30″E,"https://en.wikipedia.org/wiki/Embu,_Kenya",,"(-0.5388888888888889, 37.458333333333336)",0
+Kirinyaga,Kutus,0.57310°S,37.32788°E,https://en.wikipedia.org/wiki/Kutus,,"(-0.57310, 37.32788)",0
+Kwale,Kwale,4°10′28″S,39°27′37″E,https://en.wikipedia.org/wiki/Kwale,,"(-4.174444444444445, 39.46027777777778)",0
+Mombasa,Mombasa,4°03′S,39°40′E,https://en.wikipedia.org/wiki/Mombasa,,"(-4.05, 39.666666666666664)",0
+Kilifi,Kilifi,3°38′S,39°51′E,https://en.wikipedia.org/wiki/Kilifi,,"(-3.6333333333333333, 39.85)",0
+Lamu,Lamu,2°16′10″S,40°54′8″E,https://en.wikipedia.org/wiki/Lamu,,"(-2.2694444444444444, 40.90222222222222)",0
+Kitui,Kitui,1°22′S,38°01′E,https://en.wikipedia.org/wiki/Kitui,,"(-1.3666666666666667, 38.016666666666666)",0
+Tana River,Hola,1°40′S,40°02′E,"https://en.wikipedia.org/wiki/Hola,_Kenya",,"(-1.6666666666666665, 40.03333333333333)",0
+Garissa,Garissa,0°27′25″S,39°39′30″E,https://en.wikipedia.org/wiki/Garissa,,"(-0.45694444444444443, 39.65833333333333)",0
+Busia,Busia,00°27′48″N,34°06′19″E,"https://en.wikipedia.org/wiki/Busia,_Kenya",,"(0.4633333333333333, 34.10527777777778)",0
+Kakamega,Kakamega,0.28215°N,34.75400°E,https://en.wikipedia.org/wiki/Kakamega,,"(0.28215, 34.75400)",0
+Bungoma,Bungoma,00°34′00″N,34°34′00″E,https://en.wikipedia.org/wiki/Bungoma,,"(0.5666666666666667, 34.56666666666667)",0
+Nandi,Kapsabet,0°20′N,35°10′E,https://en.wikipedia.org/wiki/Kapsabet,,"(0.3333333333333333, 35.166666666666664)",0
+Uasin Gishu,Eldoret,0°31′N,35°17′E,https://en.wikipedia.org/wiki/Eldoret,,"(0.5166666666666667, 35.28333333333333)",0
+Elgeyo-Marakwet,Iten,0°40′23″N,35°30′30″E,https://en.wikipedia.org/wiki/Iten,,"(0.6730555555555555, 35.50833333333333)",0
+Trans Nzoia,Kitale,1°01′N,35°00′E,https://en.wikipedia.org/wiki/Kitale,,"(1.0166666666666666, 35.0)",0
+West Pokot,Kapenguria,1°14′N,35°07′E,https://en.wikipedia.org/wiki/Kapenguria,,"(1.2333333333333334, 35.11666666666667)",0
+Turkana,Lodwar,03°07′N,35°36′E,https://en.wikipedia.org/wiki/Lodwar,,"(3.1166666666666667, 35.6)",0
+Samburu,Maralal,1°06′N,36°42′E,https://en.wikipedia.org/wiki/Maralal,,"(1.1, 36.7)",0
+Meru,Meru,0°03′N,37°39′E,"https://en.wikipedia.org/wiki/Meru,_Kenya",,"(0.05, 37.65)",0
+Marsabit,Marsabit,2°20′00″N,37°59′00″E,https://en.wikipedia.org/wiki/Marsabit,,"(2.3333333333333335, 37.983333333333334)",0
+Isiolo,Isiolo,00°21′N,37°35′E,https://en.wikipedia.org/wiki/Isiolo,,"(0.35, 37.583333333333336)",0
+Wajir,Wajir,01°45′00″N,40°03′00″E,https://en.wikipedia.org/wiki/Wajir,,"(1.75, 40.05)",0
+Mandera,Mandera,03°55′N,41°50′E,https://en.wikipedia.org/wiki/Mandera,,"(3.9166666666666665, 41.833333333333336)",0
+Tharaka-Nithi,Kathwana,0°19′S,37°52′E,https://en.wikipedia.org/wiki/Kathwana,,"(-0.31666666666666665, 37.86666666666667)",0
+Kisii,Kisii,0°41′S,34°46′E,https://en.wikipedia.org/wiki/Kisii_(city),,"(-0.6833333333333333, 34.766666666666666)",0
+Vihiga,Mbale,00°04′54″N,34°43′17″E,"https://en.wikipedia.org/wiki/Mbale,_Kenya",,"(0.08166666666666667, 34.72138888888889)",0

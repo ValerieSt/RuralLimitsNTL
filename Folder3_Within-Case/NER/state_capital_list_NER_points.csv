@@ -1,0 +1,9 @@
+state,state_capital,state_capital_latitude,state_capital_longitude,Source,Comment,state_capital_point,is_capital_state
+Tillabéri,Tillabéri,14°12′43″N,1°27′10″E,https://en.wikipedia.org/wiki/Tillab%C3%A9ri,,"(14.211944444444443, 1.4527777777777777)",0
+Dosso,Dosso,13°02′40″N,3°11′41″E,"https://en.wikipedia.org/wiki/Dosso,_Niger",,"(13.044444444444444, 3.194722222222222)",0
+Tahoua,Tahoua,14°53′25″N,05°15′51″E,https://en.wikipedia.org/wiki/Tahoua,,"(14.890277777777778, 5.264166666666667)",0
+Maradi,Maradi,13°29′30″N,7°5′47″E,"https://en.wikipedia.org/wiki/Maradi,_Niger",,"(13.491666666666665, 7.096388888888889)",0
+Zinder,Zinder,13°48′19″N,8°59′18″E,https://en.wikipedia.org/wiki/Zinder,,"(13.805277777777778, 8.988333333333333)",0
+Agadez,Agadez,16°58′20″N,07°59′27″E,https://en.wikipedia.org/wiki/Agadez,,"(16.97222222222222, 7.990833333333334)",0
+Diffa,Diffa,13°18′53″N,12°37′4″E,https://en.wikipedia.org/wiki/Diffa,,"(13.314722222222223, 12.617777777777778)",0
+Niamey,Niamey,13°30′54″N,02°07′03″E,https://en.wikipedia.org/wiki/Niamey,,"(13.515, 2.1175)",1
